@@ -14,22 +14,22 @@ const chalk = require('chalk')
 
 //═══════[api website]════════\\
 global.APIs = {
-	zenz: 'https://zenzapi.xyz', //credit zenz, thank you so much bro <3
+	zenz: 'https://api.lolhuman.xyz/api', //credit zenz, thank you so much bro <3
 }
 //═══════[api key of the website]════════\\
 global.APIKeys = {
-	'https://zenzapi.xyz': '805a6c3fa9', //thank you to zenz
+	'https://api.lolhuman.xyz/api': 'fleyvin_soft', //thank you to zenz
 }
 
 //═══════[modification]════════\\
-global.owner = ['916909137213','6283839980451'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916909137213'] //another owner number
-global.premium = ['916909137213'] //premium number
-global.pengguna = 'Xeon' //username
-global.botnma = 'Cheems Bot-MD' //bot name
-global.ownernma = '🦄Dream Guy Xeon' //owner name
-global.packname = 'Cheems Bot' //sticker package name
-global.author = 'By Dream Guy Xeon' //sticker author name
+global.owner = ['6282138899290','6283110011351'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['6282138899290'] //another owner number
+global.premium = ['6282138899290'] //premium number
+global.pengguna = 'Andy' //username
+global.botnma = 'Lord bot' //bot name
+global.ownernma = 'Andy' //owner name
+global.packname = 'Andy' //sticker package name
+global.author = 'lord bot' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
